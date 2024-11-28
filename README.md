@@ -1,4 +1,4 @@
-#CineWorld 🎥
+"CineWorld 🎥"
 
 
 A Flutter-based Movie Discovery App
